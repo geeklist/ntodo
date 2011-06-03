@@ -1,0 +1,26 @@
+{
+    "name":         "ntodo",
+    "description":  "A simple CLI TODO parser for the lazy coder",
+    "keywords":     ["todo", "cli", "github", "utils"],
+    "author":       "Christian Sanz <chris@geekli.st>",
+    "version":      "0.0.1",
+    "licenses":     [{
+      "type":       "MIT",
+      "url":        "http://github.com/csanz/nyam/raw/master/LICENSE"
+    }],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/geeklist/ntodo.git" 
+    },
+    "engines":      {
+      "node":       ">=0.4.0"
+    },
+    "dependencies": {
+        "optimist": ">= 0.1.5"
+      , "colors": "*"
+    },
+    "main" : "./lib/ntodo",
+    "bin":          {
+      "nyam":       "./lib/cli.js"
+    }
+}
