@@ -3,7 +3,7 @@
     "description":  "A simple CLI TODO parser for the lazy coder",
     "keywords":     ["todo", "cli", "github", "utils"],
     "author":       "Christian Sanz <chris@geekli.st>",
-    "version":      "0.0.2",
+    "version":      "0.0.3",
     "licenses":     [{
       "type":       "MIT",
       "url":        "http://github.com/csanz/nyam/raw/master/LICENSE"
