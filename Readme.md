@@ -34,4 +34,5 @@ Todo
 ------------
 
   * Integrate with Github
-
+  * When a task is completed, remove from code and add to a history file and include who finished it
+  * Include email notification if the project includes a notify.json at the root (for whoever wants to be notified)
