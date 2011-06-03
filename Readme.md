@@ -29,4 +29,9 @@ CLI
     
     ntodo .
     ntod ../
-    
+
+Todo
+------------
+
+  * Integrate with Github
+
