@@ -3,6 +3,9 @@ ntodo
 
 A simple CLI TODO parser for the lazy coder
 
+
+![Screenshot](https://github.com/geeklist/ntodo/raw/master/misc/sample.png)
+
 Installation
 ------------
 
