@@ -29,6 +29,12 @@ CLI
     
     ntodo .
     ntod ../
+    
+    Filtering Examples
+    
+    ntodo . | grep "jade"
+    ntodo . | grep "modules"
+    ntodo . | grep "api"    
 
 Todo
 ------------
